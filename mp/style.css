@@ -1,0 +1,47 @@
+
+{
+ padding: 0;
+    marging: 0;
+    box-sizing: border-box;
+}
+
+.menu-bar
+{
+    background: rgb(0,100,0);
+    text-align: center;
+    position: fixed;
+    width: 99%;
+
+}
+.menu-bar ul
+{
+display: inline-flex;
+list-style:none;
+color: #fff;
+}
+.menu-bar ul li
+{
+    width:160px;
+    margin:10px;
+    padding:10px;
+  
+    
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.active, .menu-bar ul li:hover
+{
+    background:#2bab0d;
+    border-radius:2px;
+    
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+

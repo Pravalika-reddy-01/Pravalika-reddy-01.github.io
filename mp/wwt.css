@@ -1,0 +1,27 @@
+.card{
+    width: 100%;
+
+}
+ #product{
+    text-align: center;
+ }
+ .cards{
+    width: 15%;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 1%;
+
+    float: left;
+    text-align: left;
+
+ }
+ h1{
+ 	color: #006400;
+ }
+ h2{
+ 	color: #006400;
+ }
+ .mid{
+ 	text-align: left;
+ 	font-family: sans-serif;
+ 	 }
